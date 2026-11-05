@@ -4,6 +4,9 @@ TAS Nexus web pages, published with GitHub Pages.
 
 Site: https://ProfessorLeVesseur.github.io/tas-nexus/
 
+Sales Cube overview: https://ProfessorLeVesseur.github.io/tas-nexus/sales-cube.html
+(`sales-cube.html`, including its embedded illustrative dashboard).
+
 ## Updating the homepage
 
 The homepage is `index.html`. It contains its own styles and JavaScript.
